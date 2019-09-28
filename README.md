@@ -4,11 +4,11 @@
 
 #### The easiest way to deploy this bad boy !!
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/adeveloper79/Userbot/tree/sql-extended)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Bunty-afk/Userbot-1/tree/sql-extended)
 
     #include <std/disclaimer.h>
     /**
-        Your Telegram account may get banned.
+        Your Telegram account may get banned
 
         I am not responsible for ANY improper use of this bot.
 
