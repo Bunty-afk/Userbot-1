@@ -543,6 +543,7 @@ ABUSE_STRINGS = [
     "`mu meh leta hai kya sab ka tu madarchod`",
     "`Jyada gand na fulaao maa chod dengi tumhari bsdk....`",
     "`Muh Me Lega Bhosdike ?`"
+    "`Chattri Gand mai Dalkar Khol Dunga bsdk`"
 ]
 
 GEY_STRINGS = [
@@ -552,6 +553,7 @@ GEY_STRINGS = [
     "`you chakka`",
     "`you gey gey gey gey gey gey gey gey`",
     "`you gey go away`",
+    
 ]
 
 RAPE_STRINGS = [
